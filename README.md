@@ -4,7 +4,7 @@ We are expecting a shortage of mechanical breathing assistance for sever COVID-1
 
 To save the lives of people who will not have access to a breathing apparatus, our goal is to make it possible for locals to construct their own using locally-available or standard parts.
 
-There are other projects that are trying to mobilise people to the same end.  They are getting stuck for two reasons.
+There are other projects that are trying to mobilise people to do the same.  They are getting stuck for a few reasons.
 
 1. Because they are centralised groups, they are getting stuck with technical communication problems and other management problems because the organisers become the bottleneck.
 
