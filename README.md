@@ -8,13 +8,13 @@ There are other projects that are trying to mobilise people to do the same.  The
 
 1. Because they are centralised groups, they are getting stuck with technical communication problems and other management problems because the organisers become the bottleneck.
 
-2. They are closing off their information behind inaccessible chat groups, and not publishing their results openly, so people can't participate.
+2. They are closing off their information behind inaccessible chat groups, and not publishing their results openly, so people can't participate. Their successes are not being shared for others to work from.
 
-3. They are aiming to find a single design they can manufacture and distribute, which will rule out good enough designs that can be build locally, close to where they are needed.
+3. They are aiming to find a single design they can manufacture and distribute, which will rule out good-enough designs that can be build locally, close to where they are needed.
 
 To help solve this, we would like to build a repository of open, free designs for respiratory ventilators that can be built and assembled by local healthcare facilities around the world.
 
-There will be no one true answer to this problem, and time is of the essence, so this project aims to openly connect people so they can make small prototypes quickly, then share those designs with everyone else.
+There will be no one true answer to this problem, and time is of the essence. So this project aims to openly connect people so they can make small prototypes quickly, then share those designs with everyone else.
 
 That way, we'll all learn from each other faster, and every hospital in a ventilator shortage can pick the designs that make sense for them.
 
