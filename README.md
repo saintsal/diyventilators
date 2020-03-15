@@ -26,8 +26,8 @@ There will be no one true answer to this problem, and time is of the essence. **
 
 That way, we'll all learn from each other faster, and every hospital in a ventilator shortage can pick the designs that make sense for them.
 
-
 We're trying to keep this simple and open for now, avoiding any technical limitations by using easy to use, open-access communication, with a strategy of distribution first.  Share progress in small incremeents (or sprints for the designer out there.)  Use communication channels that others can access without any approvals or delays. Etc.
+
 
 ## How to help
 
@@ -37,7 +37,9 @@ We're trying to keep this simple and open for now, avoiding any technical limita
 
 **Step 2. Contact a few people you'd like to work with.  Ideally, forming a 2 or 3 person group.**  The list of everyone registered is [here](https://docs.google.com/spreadsheets/d/1Hu-vF676ud4nj5pDUPjlOHo4BSCHz0kKqxdISWTbW3U/edit?usp=sharing)
 
-**Step 3. Meet that group over a 3 hour video call**  During that 3 hours, your goal will be to make some sharable progress on a design.  You might come up with a design, try to build a prototype as a proof of concept, or test it in a clinical setting.  The key goal is to take a step forward and share it in a useful way at the end of the session, so others can build on your work.
+**Step 3. Meet that group over a 3 hour video call**  During that 3 hours, your goal will be to make some sharable progress on a design.  You might come up with a design, try to build a prototype as a proof of concept, or test it in a clinical setting. 
+
+When you post your results to the library, mark them as **1. Concept**, **2. Prototype built**, **3.Prototype tested** That way, other teams can learn from your work and build on it right away.
 
 **Step 4. Review some other designs from other teams, so you can learn from them.**
 
