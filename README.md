@@ -9,7 +9,7 @@ The goal here is for people to connect independently, create online video chat s
 
 
 
-**Step 1.  Find me collaborators **
+**Step 1.  Find me collaborators**
 
 If you have any design, mechanical or medical clinical experience, please register your interest and join a team. [The sign up form is here](https://airtable.com/shr46cYDx5856dQcV) and takes about 2 minutes.
 
