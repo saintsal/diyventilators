@@ -14,6 +14,8 @@ If you are a nurse, doctor, mechanical engineer or hardware hacker, add your nam
 
 Then [review the list of people here](https://airtable.com/shrskx6uYDk1KqrvN), and get in touch with anyone that can help you or that you can help.
 
+You can also review [the list of concepts](https://airtable.com/shr9r4QBrVtvTtrG8) to join those teams.
+
 If you need help, please ask us.
 
 **Step 2. Pick a goal**
@@ -23,11 +25,12 @@ Generally, designs will progress through 3 stages:
 2. Prototype built
 3. Tested by a medical professional
 
-Based on where your team is best able to help, you can pick ideas from the relevant stage of the design library and try to progress them in your session, or work on your own ideas.
+Based on where your team is best able to help, [you can pick ideas from the relevant stage of the design library](https://airtable.com/shrIHCO5Sm4SiAsx0) and try to progress them in your session, or work on your own ideas.
 
 **Step 3. Meet that group over a video call session**  
 Don't waste time.  Just jump on any kind of video call as a team and start working.  Ideally sessions are going to be 2-4 hours, but some may take a day.  Just make sure the session isn't longer than that because it's important to share your progress immediately after the session (so others can benefit and we all keep moving forward quickly.)
 
+To get an idea of this, [click here to see the submission for at the end of each session](https://airtable.com/shrIHCO5Sm4SiAsx0)
 
 
 
