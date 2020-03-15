@@ -13,9 +13,7 @@ The goal here is for people to connect independently, create online video chat s
 
 If you have any design, mechanical or medical clinical experience, please register your interest and join a team. [The sign up form is here](https://airtable.com/shr46cYDx5856dQcV) and takes about 2 minutes.
 
-Then [review the list of people here](https://airtable.com/shrskx6uYDk1KqrvN), and get in touch with anyone that can help you or that you can help.
-
-You can also review [the list of concepts](https://airtable.com/shr9r4QBrVtvTtrG8) to join those teams.  
+Then [review the list of people here](https://airtable.com/shrskx6uYDk1KqrvN),and [the list of concepts](https://airtable.com/shr9r4QBrVtvTtrG8) and get in touch with anyone that can help you or that you can help.
 
 If you have any ideas for a device, and would like to post them in order for potential teammates to find you, [submit them here](https://airtable.com/shrzYj5WNlmQzssEI)
 
