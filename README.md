@@ -5,16 +5,18 @@ We are expecting a shortage of mechanical breathing assistance for sever COVID-1
 To save the lives of people who will not have access to a breathing apparatus, our goal is to make it possible for locals to construct their own using locally-available or standard parts.  We aim to do this by building a **library of DIY plans and designs** that others can improve, or build locally for fast response.
 
 # How this works
+The goal here is for people to connect independently, create online video chat sessions where they do their own "mini-hackathon" in order to generate concepts, or progress them through prototype and testing.  We will act as support and facilitation.
 
 
-### If you have any design, mechanical or medical clinical experience, please register your interest and join a team.
 
 **Step 1.  Join a team**
-If you are a nurse, doctor, mechanical engineer or hardware hacker, add your name to this big list of people. [The sign up form is here](https://airtable.com/shr46cYDx5856dQcV) and takes about 2 minutes.
+If you have any design, mechanical or medical clinical experience, please register your interest and join a team. [The sign up form is here](https://airtable.com/shr46cYDx5856dQcV) and takes about 2 minutes.
 
 Then [review the list of people here](https://airtable.com/shrskx6uYDk1KqrvN), and get in touch with anyone that can help you or that you can help.
 
-You can also review [the list of concepts](https://airtable.com/shr9r4QBrVtvTtrG8) to join those teams.
+You can also review [the list of concepts](https://airtable.com/shr9r4QBrVtvTtrG8) to join those teams.  
+
+If you have any ideas for a device, and would like to post them in order for potential teammates to find you, [submit them here](https://airtable.com/shrzYj5WNlmQzssEI)
 
 If you need help, please ask us.
 
@@ -33,8 +35,6 @@ Based on where your team is best able to help, [you can pick ideas from the rele
 Don't waste time.  Just jump on any kind of video call as a team and start working.  Ideally sessions are going to be 2-4 hours, but some may take a day.  Just make sure the session isn't longer than that because it's important to share your progress immediately after the session (so others can benefit and we all keep moving forward quickly.)
 
 To get an idea of this, [click here to see the submission for at the end of each session](https://airtable.com/shrIHCO5Sm4SiAsx0)
-
-
 
 ## The urgency
 
