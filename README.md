@@ -33,21 +33,28 @@ We're trying to keep this simple and open for now, avoiding any technical limita
 
 ### If you have any design, mechanical or medical clinical experience, please register your interest and join a team.
 
-**Step 1.  If you are a nurse, doctor, mechanical engineer or hardware hacker, add your nmae to this big list.** [The sign up form is here](https://forms.gle/AvygJMQWPzepXA2E9) and takes about 2 minutes.
+**Step 1.  Join a team**
+If you are a nurse, doctor, mechanical engineer or hardware hacker, add your name to this big list of people. [The sign up form is here](https://airtable.com/shr46cYDx5856dQcV) and takes about 2 minutes.
 
-**Step 2. Contact a few people you'd like to work with.  Ideally, forming a 2 or 3 person group.**  The list of everyone registered is [here](https://docs.google.com/spreadsheets/d/1Hu-vF676ud4nj5pDUPjlOHo4BSCHz0kKqxdISWTbW3U/edit?usp=sharing)
+Then [review the list of people here](https://airtable.com/shrskx6uYDk1KqrvN), and get in touch with anyone that can help you or that you can help.
 
-**Step 3. Meet that group over a 3 hour video call**  During that 3 hours, your goal will be to make some sharable progress on a design.  You might come up with a design, try to build a prototype as a proof of concept, or test it in a clinical setting. 
+If you need help, please ask us.
 
-When you post your results to the library, mark them as **1. Concept**, **2. Prototype built**, or **3.Prototype tested** That way, other teams can learn from your work and build on it right away. (We are looking at the most accessible way to host this libary and expect to have it ready in some form by the end of day March 15th.)
+**Step 2. Pick a goal**
+Generally, designs will progress through 3 stages:
 
-**Step 4. Review some other designs from other teams, so you can learn from them.**
+1. Concept
+2. Prototype built
+3. Tested by a medical professional
 
-**Step 5. Make a quick video, or write up, sharing your design, what worked and didn't and basic building steps.  Add it to the master list for everyone to benefit from.**
+Based on where your team is best able to help, you can pick ideas from the relevant stage of the design library and try to progress them in your session, or work on your own ideas.
+
+**Step 3. Meet that group over a video call session**  
+Don't waste time.  Just jump on any kind of video call as a team and start working.  Ideally sessions are going to be 2-4 hours, but some may take a day.  Just make sure the session isn't longer than that because it's important to share your progress immediately after the session (so others can benefit and we all keep moving forward quickly.)
 
 
 ## If you have facilitation skills
-Your role is one of a connector.  Help people form good teams.  Offer to help faciltate their video sessions so they produce results at the end of each and share them.  **SHIP IT** is the key.
+Your role is one of a connector.  Review the list of people, and help them form good teams.  Offer to help faciltate their video sessions so they produce results at the end of each and share them.  **SHIP IT** is the key. Any concept that gets to the next stage, or fails to with valuable lessons learned, will be immediately useful to the whole community.
 
 Please, please, please do not make yourself a dependency in any way.  This will work best when every team and participant has fully agency to act on their own, feels empowered to do so, and doesn't need to wait on you for anything.  To make this process accelerator progress (instead of slow it down with beurocracy) the rule is: in each communication with anyone, offer something useful proactively, but without needing further communication by you.  You can always offer more support, but after every interaction with you, participants and teams should be independent.
 
