@@ -9,7 +9,8 @@ The goal here is for people to connect independently, create online video chat s
 
 
 
-**Step 1.  Join a team**
+**Step 1.  Find me collaborators **
+
 If you have any design, mechanical or medical clinical experience, please register your interest and join a team. [The sign up form is here](https://airtable.com/shr46cYDx5856dQcV) and takes about 2 minutes.
 
 Then [review the list of people here](https://airtable.com/shrskx6uYDk1KqrvN), and get in touch with anyone that can help you or that you can help.
@@ -20,7 +21,7 @@ If you have any ideas for a device, and would like to post them in order for pot
 
 If you need help, please ask us.
 
-**Step 2. Pick a goal**
+**Step 2. Pick a goal for a design session**
 Generally, designs will progress through 3 stages:
 
 1. Concept
@@ -32,7 +33,11 @@ Generally, designs will progress through 3 stages:
 Based on where your team is best able to help, [you can pick ideas from the relevant stage of the design library](https://airtable.com/shrIHCO5Sm4SiAsx0) and try to progress them in your session, or work on your own ideas.
 
 **Step 3. Meet that group over a video call session**  
-Don't waste time.  Just jump on any kind of video call as a team and start working.  Ideally sessions are going to be 2-4 hours, but some may take a day.  Just make sure the session isn't longer than that because it's important to share your progress immediately after the session (so others can benefit and we all keep moving forward quickly.)
+Don't waste time.  Just jump on any kind of video call as a team and start working. (If you're having connection trouble, [whereby.com](http://whereby.com) is a fast video chat most people can access within a minute or so. ) 
+
+Ideally design sessions are going to be 2-4 hours, but some may take a day.  Just make sure the session isn't longer than that because it's important to share your progress immediately after the session (so others can benefit and we all keep moving forward quickly.)
+
+At the beginning of each session, nominate a note-taker who will share your progress at the end of the session.
 
 To get an idea of this, [click here to see the submission form at the end of each session](https://airtable.com/shrIHCO5Sm4SiAsx0)
 
@@ -58,8 +63,11 @@ There will be no one true answer to this problem, and time is of the essence. **
 
 That way, we'll all learn from each other faster, and every hospital in a ventilator shortage can pick the designs that make sense for them.
 
-We're trying to keep this simple and open for now, avoiding any technical limitations by using easy to use, open-access communication, with a strategy of distribution first.  Share progress in small incremeents (or sprints for the designers out there.)  Use communication channels that others can access without any approvals or delays. Etc.
+We're trying to keep this simple and open, avoiding any technical limitations by using easy to use, open-access communication. 
 
+We share progress in small incremeents (or sprints for the designers out there.)  We use communication channels that others can access without any approvals or delays. We share our work and databases in the open to keep things moving.
+
+[The entire database is online here.](https://airtable.com/shrUS6Zb9JP8eEZk3)
 
 ## How to help
 
