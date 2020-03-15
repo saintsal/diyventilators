@@ -4,6 +4,33 @@ We are expecting a shortage of mechanical breathing assistance for sever COVID-1
 
 To save the lives of people who will not have access to a breathing apparatus, our goal is to make it possible for locals to construct their own using locally-available or standard parts.  We aim to do this by building a **library of DIY plans and designs** that others can improve, or build locally for fast response.
 
+# How this works
+
+
+### If you have any design, mechanical or medical clinical experience, please register your interest and join a team.
+
+**Step 1.  Join a team**
+If you are a nurse, doctor, mechanical engineer or hardware hacker, add your name to this big list of people. [The sign up form is here](https://airtable.com/shr46cYDx5856dQcV) and takes about 2 minutes.
+
+Then [review the list of people here](https://airtable.com/shrskx6uYDk1KqrvN), and get in touch with anyone that can help you or that you can help.
+
+If you need help, please ask us.
+
+**Step 2. Pick a goal**
+Generally, designs will progress through 3 stages:
+
+1. Concept
+2. Prototype built
+3. Tested by a medical professional
+
+Based on where your team is best able to help, you can pick ideas from the relevant stage of the design library and try to progress them in your session, or work on your own ideas.
+
+**Step 3. Meet that group over a video call session**  
+Don't waste time.  Just jump on any kind of video call as a team and start working.  Ideally sessions are going to be 2-4 hours, but some may take a day.  Just make sure the session isn't longer than that because it's important to share your progress immediately after the session (so others can benefit and we all keep moving forward quickly.)
+
+
+
+
 ## The urgency
 
 Even in places with fewer than 100 confirmed cases, the doubling speed of infection is every 2 days, which means if there are 20 confirmed cases now, there will be 327,000 in 28 days. (20 * 2^(28/2) If you account for the fact that the virus may have started spreading 10 days before the first confirmed case, then that number is 300 million, effectively saturating the population. (The theoratical maxium being described is 70% of the population.)
@@ -30,28 +57,6 @@ We're trying to keep this simple and open for now, avoiding any technical limita
 
 
 ## How to help
-
-### If you have any design, mechanical or medical clinical experience, please register your interest and join a team.
-
-**Step 1.  Join a team**
-If you are a nurse, doctor, mechanical engineer or hardware hacker, add your name to this big list of people. [The sign up form is here](https://airtable.com/shr46cYDx5856dQcV) and takes about 2 minutes.
-
-Then [review the list of people here](https://airtable.com/shrskx6uYDk1KqrvN), and get in touch with anyone that can help you or that you can help.
-
-If you need help, please ask us.
-
-**Step 2. Pick a goal**
-Generally, designs will progress through 3 stages:
-
-1. Concept
-2. Prototype built
-3. Tested by a medical professional
-
-Based on where your team is best able to help, you can pick ideas from the relevant stage of the design library and try to progress them in your session, or work on your own ideas.
-
-**Step 3. Meet that group over a video call session**  
-Don't waste time.  Just jump on any kind of video call as a team and start working.  Ideally sessions are going to be 2-4 hours, but some may take a day.  Just make sure the session isn't longer than that because it's important to share your progress immediately after the session (so others can benefit and we all keep moving forward quickly.)
-
 
 ## If you have facilitation skills
 Your role is one of a connector.  Review the list of people, and help them form good teams.  Offer to help faciltate their video sessions so they produce results at the end of each and share them.  **SHIP IT** is the key. Any concept that gets to the next stage, or fails to with valuable lessons learned, will be immediately useful to the whole community.
