@@ -39,7 +39,7 @@ We're trying to keep this simple and open for now, avoiding any technical limita
 
 **Step 3. Meet that group over a 3 hour video call**  During that 3 hours, your goal will be to make some sharable progress on a design.  You might come up with a design, try to build a prototype as a proof of concept, or test it in a clinical setting. 
 
-When you post your results to the library, mark them as **1. Concept**, **2. Prototype built**, **3.Prototype tested** That way, other teams can learn from your work and build on it right away.
+When you post your results to the library, mark them as **1. Concept**, **2. Prototype built**, or **3.Prototype tested** That way, other teams can learn from your work and build on it right away. (We are looking at the most accessible way to host this libary and expect to have it ready in some form by the end of day March 15th.)
 
 **Step 4. Review some other designs from other teams, so you can learn from them.**
 
