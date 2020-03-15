@@ -25,6 +25,8 @@ Generally, designs will progress through 3 stages:
 2. Prototype built
 3. Tested by a medical professional
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrIHCO5Sm4SiAsx0?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 Based on where your team is best able to help, [you can pick ideas from the relevant stage of the design library](https://airtable.com/shrIHCO5Sm4SiAsx0) and try to progress them in your session, or work on your own ideas.
 
 **Step 3. Meet that group over a video call session**  
