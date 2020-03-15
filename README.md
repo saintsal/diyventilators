@@ -4,15 +4,15 @@ We are expecting a shortage of mechanical breathing assistance for sever COVID-1
 
 To save the lives of people who will not have access to a breathing apparatus, our goal is to make it possible for locals to construct their own using locally-available or standard parts.  We aim to do this by building a **library of DIY plans and designs** that others can improve, or build locally for fast response.
 
-## The urgency.
+## The urgency
 
-Even in places with fewer than 100 confirmed cases, the doubling speed of infection is every 2 days, which means if there are 20 confirmed cases now, there will be 327,000 in 28 days. (20 * 2^(28/2) If you account for the fact that the virus may have started spreading 10 days before the first confirmed case, then that number is 300 million, effectively saturating the population to some theoratical maxium of 70% of the population.
+Even in places with fewer than 100 confirmed cases, the doubling speed of infection is every 2 days, which means if there are 20 confirmed cases now, there will be 327,000 in 28 days. (20 * 2^(28/2) If you account for the fact that the virus may have started spreading 10 days before the first confirmed case, then that number is 300 million, effectively saturating the population. (The theoratical maxium being described is 70% of the population.)
 
-It is expected that 1% of cases will need mechanical breathing assistance, and in many countries there are only ~1,000 of those machines available.  For example, there are 1,400 in Bulgaria, where I live, making the maximum number of cases 140,000 or less, before doctors simply have to let people die.
+It is expected that 1% of cases will need mechanical breathing assistance, and in many countries there are only ~1,000 of those machines available.  For example, there are 1,400 in Bulgaria, where I live, making the maximum number of cases 140,000 or less, before doctors simply have to let people die.  If we are being practical, we should assume that time is coming before April -- but we can do somthing.
 
-## We must work "exponentially"
+## We must work "exponentially" ourselves
 
-There are other projects that are trying to mobilise people to do the same.  They are getting stuck for a few reasons.
+There are other projects that are trying to mobilise people to do the same.  They are facing obstacles for a few reasons:
 
 1. Because they are centralised groups, they are getting stuck with technical communication problems and other management problems because the organisers become the bottleneck.
 
