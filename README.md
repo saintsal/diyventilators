@@ -8,6 +8,8 @@ To save the lives of people who will not have access to a breathing apparatus, o
 
 Even in places with fewer than 100 confirmed cases, the doubling speed of infection is every 2 days, which means if there are 20 confirmed cases now, there will be 327,000 in 28 days. (20 * 2^(28/2) If you account for the fact that the virus may have started spreading 10 days before the first confirmed case, then that number is 300 million, effectively saturating the population to some theoratical maxium of 70% of the population.
 
+It is expected that 1% of cases will need mechanical breathing assistance, and in many countries there are only ~1,000 of those machines available.  For example, there are 1,400 in Bulgaria, where I live, making the maximum number of cases 140,000 or less, before doctors simply have to let people die.
+
 ## We must work "exponentially"
 
 There are other projects that are trying to mobilise people to do the same.  They are getting stuck for a few reasons.
