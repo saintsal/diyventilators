@@ -1,3 +1,5 @@
+[BG](https://github.com/saintsal/diyventilators/blob/bg/README.md)
+
 # DIY Ventiliators
 
 We are expecting a shortage of mechanical breathing assistance for severe COVID-19 patients.
@@ -5,7 +7,7 @@ We are expecting a shortage of mechanical breathing assistance for severe COVID-
 To save the lives of people who will not have access to a breathing apparatus, our goal is to make it possible for locals to construct their own using locally-available or standard parts.  We aim to do this by building a **library of DIY plans and designs** that others can improve, or build locally for fast response.
 
 # How this works
-The goal here is for people to connect independently, create online video chat sessions where they do their own "mini-hackathon" in order to generate concepts, or progress them through prototype and testing.  We will act as support and facilitation.
+The goal here is for people to connect independently and self-direct to design and test prototypes in short essions.  In some cases small interdiciplinary groups make sense, so create online video chat sessions where they do their own "mini-hackathon" in order to generate concepts, or progress them through prototype and testing.  We will act as support and facilitation.
 
 
 
@@ -19,7 +21,7 @@ Then [review the list of people here](https://airtable.com/shrskx6uYDk1KqrvN),an
 
 If you have any ideas for a device, and would like to post them in order for potential teammates to find you, [submit them here](https://airtable.com/shrzYj5WNlmQzssEI)
 
-If you need help, please ask us.
+If you need help, please ask us. You can find [the chat group here.](https://discord.gg/Xu8Uzj)
 
 **Step 2. Pick a goal for a design session**
 Generally, designs will progress through 3 stages:
