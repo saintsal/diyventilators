@@ -1,79 +1,81 @@
 # DIY Ventiliators
 
-We are expecting a shortage of mechanical breathing assistance for severe COVID-19 patients.
+Очаква се недостиг на апарати за механична вентилация за пациенти с усложнения от COVID-19.
 
-To save the lives of people who will not have access to a breathing apparatus, our goal is to make it possible for locals to construct their own using locally-available or standard parts.  We aim to do this by building a **library of DIY plans and designs** that others can improve, or build locally for fast response.
+За да се спаси живота на хората, които няма да имат достъп до апарати за обдишване, нашата цел е да направим възможно на местно ниво да се конструират такива, използвайки лесни за набавяне стандартни части. Целим да направим **библиотека от “направи си сам” планове и проекти**, които всички могат да подобрят или да си направят сами независимо от локацията им с цел по-бързи резултати.
 
-# How this works
-The goal here is for people to connect independently, create online video chat sessions where they do their own "mini-hackathon" in order to generate concepts, or progress them through prototype and testing.  We will act as support and facilitation.
+# Как да го направим
 
+Целта е хората да се свързват поактивно едни с други, по всевъзможни начини, да провеждат онлайн видео чатове, където правят свои собствени „мини-хакатон“, за да създават концепции, да разработват и да правят тестове. Ние можем да ви подпомагаме като фасилитираме, улесняваме и ускоряваме процеса на колаборация. 
 
+**Стъпка 1. Намерете сътрудници**
 
-**Step 1.  Find me collaborators**
+Ако имате някакъв проектански, механичен или медицински опит, моля, регистрирайте се и се присъединете към екип. [Кликнете тук, за да се регистрирате](https://airtable.com/shr46cYDx5856dQcV), отнема 2 минути.
 
-If you have any design, mechanical or medical clinical experience, please register your interest and join a team. [The sign up form is here](https://airtable.com/shr46cYDx5856dQcV) and takes about 2 minutes.
-
-Then [review the list of people here](https://airtable.com/shrskx6uYDk1KqrvN),and [the list of concepts](https://airtable.com/shr9r4QBrVtvTtrG8) and get in touch with anyone that can help you or that you can help.
+След това [прегледайте списъка с хора тук](https://airtable.com/shrskx6uYDk1KqrvN) и [списъка с концепции](https://airtable.com/shr9r4QBrVtvTtrG8), и се свържете с всеки, който може да ви помогне или с този, на когото можете да помогнете.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrm2y1bUzG7KZYHu?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-If you have any ideas for a device, and would like to post them in order for potential teammates to find you, [submit them here](https://airtable.com/shrzYj5WNlmQzssEI)
+Ако имате идеи за устройство и искате някой да се включи, за да ви помогне да ги реализирате, можете да намерите потенциалния си екип, като качите [идеите си тук.](https://airtable.com/shrzYj5WNlmQzssEI)
 
-If you need help, please ask us.
+Ако имате нужда от помощ, моля, попитайте ни.
 
-**Step 2. Pick a goal for a design session**
-Generally, designs will progress through 3 stages:
+**Стъпка 2. Изберете целта си за сесия за проектиране**
 
-1. Concept
-2. Prototype built
-3. Tested by a medical professional
+Като цяло проектите ще преминат през 3 етапа:
+
+1. Концепция
+2. Направен прототип
+3. Тестван от медицински специалист
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrIHCO5Sm4SiAsx0?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-Based on where your team is best able to help, [you can pick ideas from the relevant stage of the design library](https://airtable.com/shrIHCO5Sm4SiAsx0) and try to progress them in your session, or work on your own ideas.
+Според силните страни на вашия екип, [можете да изберете идеи от съотвестващата фаза на библиотеката за проектиране](https://airtable.com/shrIHCO5Sm4SiAsx0), за да ги доразвиете в сесията си, или да работите върху собствените си идеи.
 
-**Step 3. Meet that group over a video call session**  
-Don't waste time.  Just jump on any kind of video call as a team and start working. (If you're having connection trouble, [whereby.com](http://whereby.com) is a fast video chat most people can access within a minute or so. ) 
+**Стъпка 3.  Запознайте се с групата чрез видеоразговор**  
+Не губете време. Свържете се като екип чрез видеоразговор и започнете с колаборацията. (Ако имате проблеми с връзката, препоръчваме [whereby.com](http://whereby.com) - бърз видео чат, до който повечето хора могат да получат достъп за около минута.)
 
-Ideally design sessions are going to be 2-4 hours, but some may take a day.  Just make sure the session isn't longer than that because it's important to share your progress immediately after the session (so others can benefit and we all keep moving forward quickly.)
+В идеалния случай сесиите за проектиране ще бъдат 2-4 часа, но някои може да отнемат ден. Просто се уверете, че сесията не е по-дълга от това, защото е важно да споделите напредъка си веднага след сесията (за да могат и другите да имат полза, както и да можем всички бързо да напредваме.)
 
-At the beginning of each session, nominate a note-taker who will share your progress at the end of the session.
+В началото на всяка сесия определете някой да води бележки, за да може да се определи и сподели напредъка ви в края на сесията.
 
-To get an idea of this, [click here to see the submission form at the end of each session](https://airtable.com/shrIHCO5Sm4SiAsx0)
+За да получите представа как става това, [кликнете тук, за да видите формуляра, който се изпраща в края на всяка сесия.](https://airtable.com/shrIHCO5Sm4SiAsx0)
 
-## The urgency
+##  Спешността Това което не може да чака..
 
-Even in places with fewer than 100 confirmed cases, the doubling speed of infection is every 2 days, which means if there are 20 confirmed cases now, there will be 327,000 in 28 days. (20 * 2^(28/2) If you account for the fact that the virus may have started spreading 10 days before the first confirmed case, then that number is 300 million, effectively saturating the population. (The theoratical maxium being described is 70% of the population.)
+По същество, дори на места с по-малко от 100 потвърдени случая, удвояването на инфекцията се случва на всеки 2 дни. Ако днес има 20 потвърдени случая, те ще бъдат 327 000 за едва 28 дни. (20 * 2^(28/2) ако вземем предвид факта, че вирусът може да е започнал да се разпространява 10 дни преди първият потвърден случай, тогава това число е 300 милиона (теоретичният максимум, който се описва е 70% от населението).
 
-It is expected that 1% of cases will need mechanical breathing assistance, and in many countries there are only ~1,000 of those machines available.  For example, there are 1,400 in Bulgaria, where I live, making the maximum number of cases 140,000 or less, before doctors simply have to let people die.  If we are being practical, we should assume that time is coming before April -- but we can do something.
+Очаква се за 1% от случаите да има нужда от механично обдишване и в много държави има едва по около 1000 от тези апарати. В България има 1400. Тук в България, където живея, това означава, че 140 000 случая ще са момента, в който лекарите просто ще трябва да оставят хората да умрат от недостиг на въздух. И ако сме практични, ще предвидим, че времето да направим нещо е преди април.
 
-## We must work "exponentially" ourselves
+## Ние също трябва да работим "експоненциално" 
 
-There are other projects that are trying to mobilise people to do the same.  They are facing obstacles for a few reasons:
+Има проекти, които опитват да мобилизират групи хора да правят такива апарати. Но срещат затруднения поради няколко причини:
 
-1. Because they are centralised groups, they are getting stuck with technical communication problems and other management problems because the organisers become the bottleneck.
+1. Централизираните групи се препъват в технически-комуникационни проблеми и други ръководни такива, реално организаторите се превръщат в пречката за забавяне на резултатите.
 
-2. They are closing off their information behind inaccessible chat groups, and not publishing their results openly, so people can't participate. Their successes are not being shared for others to work from.
+2. Информацията се ограничава зад недостъпни чат групи и не се публикават свободно постигнатите резултати, за да могат повече хора да се включат и помогнат. Успехите им не се споделят, за да могат други да базират разработката си на създадения прогрес.
 
-3. They are aiming to find a single design they can manufacture and distribute, which will rule out good-enough designs that can be build locally, close to where they are needed.
+3. Опитват се да създадат един определен, единствен дизайн, който да произведат и дистрибутират. Това би отхвърлило достатъчно добри дизайни, отговарящи на достъпните материали и възможни да се произведат на място, точно там където ще са необходими.
 
-To help solve this, we would like to build a repository of open, free designs for respiratory ventilators that can be built and assembled by local healthcare facilities around the world.
+За да помогнем за решаването на този проблем, бихме искали да изградим хранилище от отворени, безплатни проекти за респиратори, които могат да бъдат направени и сглобени от местни здравни заведения в цял свят независимо от местоположението им.
 
-There will be no one true answer to this problem, and time is of the essence. **So this project aims to openly connect people so they can make small prototypes quickly, then share those designs with everyone else.**
+Няма един верен отговор на този проблем и времето е от значение. **Този проект цели да свърже хора, които могат да направят малки прототипи бързо, а след това да споделят своите дизайни с останалите.**
 
-That way, we'll all learn from each other faster, and every hospital in a ventilator shortage can pick the designs that make sense for them.
+По този начин ще се учим едни от други и всяка болница, която изпитва недостиг на обдишватели ще може да избере онзи дизайн, който е най-подходящ за тях.
 
-We're trying to keep this simple and open, avoiding any technical limitations by using easy to use, open-access communication. 
+Опитваме се да поддържаме нещата опростени и отворени без технически ограничения, като използваме лесна с отворен достъп комуникация.
+Споделяме напредъка с малки стъпки (или спринтове за дизайнерите.) Използваме комуникационни канали, до които можете да получите достъп без да чакате за одобрение. Ние открито споделяме нашата работа и бази данни, за да поддържаме развитието на нещата.
 
-We share progress in small incremeents (or sprints for the designers out there.)  We use communication channels that others can access without any approvals or delays. We share our work and databases in the open to keep things moving.
+[Цялата база данни е онлайн.](https://airtable.com/shrUS6Zb9JP8eEZk3)
 
-[The entire database is online here.](https://airtable.com/shrUS6Zb9JP8eEZk3)
 
-## How to help
 
-## If you have facilitation skills
-Your role is one of a connector.  Review the list of people, and help them form good teams.  Offer to help faciltate their video sessions so they produce results at the end of each and share them.  **SHIP IT** is the key. Any concept that gets to the next stage, or fails to with valuable lessons learned, will be immediately useful to the whole community.
+## Как да помогнете
 
-Please, please, please do not make yourself a dependency in any way.  This will work best when every team and participant has full agency to act on their own, feels empowered to do so, and doesn't need to wait on you for anything. Offer something useful proactively, but without needing further communication by you. You can always offer more support, but after every interaction with you, participants and teams should be independent.
+## Ако имате умения да фасилитирате 
+Вашата роля е на конектор. Прегледайте списъка с хора и им помогнете да сформират добри екипи. Улеснявайте процеса им на работа, така че видео сесиите да дават резултати и в края на всяка сесия, да бъдат споделяни. **SHIP IT** е ключът. Всяка концепция, която стигне до следващия етап или се окаже неуспешна, носи със себе си ценна информация и уроци и ще бъде непосредствено полезна за цялата общност.
 
-I am avialable at **salim @ source.institute** if you have any questions or suggestions.  
+Много ви моля, не се поставяйте в полежение, в което екипите да зависят от вас. Максимални резултати ще бъдат постигнати, когато всеки екип и участник има пълното право да действа самостоятелно, да се чувства упълномощен да го направи, и няма нужда да ви чака за нищо. Предлагайте нещо полезно проактивно, но без да се нуждае от допълнителна комуникация. Винаги можете да предложите подкрепа, но след всяко взаимодействие с вас, участниците и екипите трябва да бъдат независими.
+
+
+На разположение съм на **salim @ source.institute**, ако имате въпроси или предложения.
