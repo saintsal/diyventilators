@@ -1,9 +1,9 @@
-[BG](https://github.com/saintsal/diyventilators/blob/bg/README.md) (po-staro)
+[BG](https://github.com/saintsal/diyventilators/blob/bg/README.md) (стара версия)
 
 
 Current status: **Since we've got medical feedback on [the MIT $100 ventilator](https://airtable.com/embed/shrIHCO5Sm4SiAsx0/tbl7hMA18kmI63JDk/viww9nptHKS2OLKmT/recDC2VvcXttg3y8t?blocks=hide&backgroundColor=red&viewControls=on), that is our most reliable path for today.  If you are an engineer/hacker, could you please try it out, and see if you can make it with local parts?    If you have clinical experience with breathing support, can you [please review one of the other designs](https://airtable.com/embed/shrIHCO5Sm4SiAsx0/tbl7hMA18kmI63JDk?backgroundColor=red&viewControls=on&blocks=hide) on their respective wiki page?  We are looking for a practical works/doesn't work evaluation from you, and a heads-up for any concerns you have with it.**
 
-After you [register](https://airtable.com/shr46cYDx5856dQcV), you can jump on the [chat for help](https://discord.gg/Xu8Uzj).
+After you [register](https://airtable.com/shr46cYDx5856dQcV), you can jump on the [chat for help](https://discord.gg/38YAvFZ).
 
 
 # DIY Ventiliators
@@ -36,7 +36,7 @@ Time is of the essense, so it's better to start working now, and add help as you
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrm2y1bUzG7KZYHu?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-If you have any design, hardware, mechanical or medical clinical experience, people will need you. [The sign up form is here](https://airtable.com/shr46cYDx5856dQcV) and takes about 2 minutes. Then you can join [the chat group here.](https://discord.gg/Xu8Uzj)
+If you have any design, hardware, mechanical or medical clinical experience, people will need you. [The sign up form is here](https://airtable.com/shr46cYDx5856dQcV) and takes about 2 minutes. Then you can join [the chat group here.](https://discord.gg/38YAvFZ)
 
 **Step 2. Get to work on something**
 
@@ -60,7 +60,7 @@ You can use the filter feature or click on the following for specific help:
 
 [Click here for the full list of volunteers](https://airtable.com/shrskx6uYDk1KqrvN). 
  
-It's also worth quickly asking on the [chat group](https://discord.gg/Xu8Uzj).
+It's also worth quickly asking on the [chat group](https://discord.gg/38YAvFZ).
 
 If you have any ideas for a device, and would like to post them in order for potential teammates to find you, [submit them here](https://airtable.com/shrzYj5WNlmQzssEI)  They will appear on the left, in the idea column.
 
@@ -114,4 +114,4 @@ Your role is one of a connector.  Review the list of people, and help them form 
 
 Please, please, please do not make yourself a dependency in any way.  This will work best when every team and participant has full agency to act on their own, feels empowered to do so, and doesn't need to wait on you for anything. Offer something useful proactively, but without needing further communication by you. You can always offer more support, but after every interaction with you, participants and teams should be independent.
 
-I am avialable at **salim @ source.institute** if you have any questions or suggestions, or find me in [our chat group]((https://discord.gg/Xu8Uzj).
+I am avialable at **salim @ source.institute** if you have any questions or suggestions, or find me in [our chat group](https://discord.gg/38YAvFZ).
