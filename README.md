@@ -11,15 +11,15 @@ Current status: **Since we've got medical feedback on [the MIT $100 ventilator](
 After you [register](https://airtable.com/shr46cYDx5856dQcV), you can jump on the [chat for help](https://discord.gg/Xu8Uzj).
 
 # What this project focuses on
-The goal here is for people to connect independently and self-direct to design and test prototypes in short essions.  For the most part, we encourage people to find something they can do to contribute the verification efforts of the most likely designs.
+The goal here is for people to connect independently and self-direct to design and test prototypes in short essions.  For the most part, we encourage people to find something they can do to contribute the verification efforts of the most prgressed designs. That means some duplication of effort, but overall gives us faster visibility of problems, and keeps people working on the thing that will address the shortage the fastest way possible.
 
 This is going to be chaotic but we are providing two centralised resources to help people self-direct:
 
 1. [An open list of volunteers.](https://airtable.com/shrskx6uYDk1KqrvN)  (or a [table view](https://airtable.com/shrskx6uYDk1KqrvN) )
-2. [An open library of ventilator designs](https://airtable.com/shrIHCO5Sm4SiAsx0), organised with medical feedback and contruction notes from volunteers.
+2. [An open library of ventilator designs](https://airtable.com/shrIHCO5Sm4SiAsx0), with medical feedback and contruction notes from volunteers.  It is organised by progress level, so you can choose what to work on more easily.
 
-In some cases small interdiciplinary groups make sense, so create online video chat sessions where they do their own "mini-hackathon" in order to generate concepts, or progress them through prototype and testing. 
-.
+Time is of the essense, so it's better to start working now, and add help as you go.  In some cases small interdiciplinary groups make sense, so create online video chat sessions where they do their own "mini-hackathon" in order to generate concepts, or progress them through prototype and testing.   See below for how to get help when you need it.
+
 
 # What should I do now?
 
