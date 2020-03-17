@@ -109,8 +109,6 @@ We share progress in small incremeents (or sprints for the designers out there.)
 
 [The entire database is online here](https://airtable.com/shrUS6Zb9JP8eEZk3) for any project to use.  
 
-## How to help
-
 ## If you have facilitation skills
 Your role is one of a connector.  Review the list of people, and help them form good teams.  Offer to help faciltate their video sessions so they produce results at the end of each and share them.  **SHIP IT** is the key. Any concept that gets to the next stage, or fails to with valuable lessons learned, will be immediately useful to the whole community.
 
