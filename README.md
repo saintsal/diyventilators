@@ -10,7 +10,12 @@ After you [register](https://airtable.com/shr46cYDx5856dQcV), you can jump on th
 
 We are expecting a shortage of mechanical breathing assistance for severe COVID-19 patients.
 
-To save the lives of people who will not have access to a breathing apparatus, our goal is to make it possible for locals to construct their own using locally-available or standard parts.  We aim to do this by building a **library of DIY plans and designs** that others can improve, or build locally for fast response.  We are focused on the fastest path to having a *just good enough* and *pruduceable* design on a country by country basis. 
+To save the lives of people who will not have access to a breathing apparatus, our goal is to make it possible for locals to construct their own using locally-available or standard parts.  We aim to do this by building a **library of DIY plans and designs** that others can improve, or build locally for fast response.  
+
+We are focused on the fastest path to having a *just good enough* and *pruduceable* design on a country by country basis. 
+
+## The open source strategy
+We want to prioritse designs that can be built  with locally-available parts, so they are quickly available and communities are empowered to react to need. Simple and basic funcationality is  more important than advanced features.  And we are not concerning ourselves with regulatory compliance.  In live or not-live situations, we think speed to availability and practical functionality are more important.  The regulatory aspects are more likely to be addressed if a design is a practical option and ready to produce.  We are following the [Good Samaritan Law](https://en.wikipedia.org/wiki/Good_Samaritan_law).
 
 
 
