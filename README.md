@@ -7,6 +7,11 @@ We are expecting a shortage of mechanical breathing assistance for severe COVID-
 To save the lives of people who will not have access to a breathing apparatus, our goal is to make it possible for locals to construct their own using locally-available or standard parts.  We aim to do this by building a **library of DIY plans and designs** that others can improve, or build locally for fast response.
 
 # How this works
+
+We're using [airtable.com](https://airtable.com/) to share contacts and designs, plan meetings, etc.
+
+**[Here is our database](https://airtable.com/shrUS6Zb9JP8eEZk3)**
+
 The goal here is for people to connect independently and self-direct to design and test prototypes in short essions.  In some cases small interdiciplinary groups make sense, so create online video chat sessions where they do their own "mini-hackathon" in order to generate concepts, or progress them through prototype and testing.  We will act as support and facilitation.
 
 
