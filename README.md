@@ -14,23 +14,13 @@ To save the lives of people who will not have access to a breathing apparatus, o
 
 We are focused on the fastest path to having a *just good enough* and *pruduceable* design on a country by country basis. 
 
-* auto-gen TOC:
-{:toc}
-
-## The open source strategy
-We want to prioritse designs that can be built  with locally-available parts, so they are quickly available and communities are empowered to react to need. Simple and basic funcationality is  more important than advanced features.  And we are not concerning ourselves with regulatory compliance.  In live or not-live situations, we think speed to availability and practical functionality are the only important aspects to work towards.  The regulatory aspects are more likely to be addressed if a design is a practical option and ready to produce.  We are following the [Good Samaritan Law](https://en.wikipedia.org/wiki/Good_Samaritan_law).
-
-
-
-# What this project focuses on
-The goal here is for people to connect independently and self-direct to design and test prototypes in short essions.  For the most part, we encourage people to find something they can do to contribute the verification efforts of the most prgressed designs. That means some duplication of effort, but overall gives us faster visibility of problems, and keeps people working on the thing that will address the shortage the fastest way possible.
-
 This is going to be chaotic but we are providing two centralised resources to help people self-direct:
 
 1. [An open list of volunteers.](https://airtable.com/shrskx6uYDk1KqrvN)  (or a [table view](https://airtable.com/shrskx6uYDk1KqrvN) )
 2. [An open library of ventilator designs](https://airtable.com/shrIHCO5Sm4SiAsx0), with medical feedback and contruction notes from volunteers.  It is organised by progress level, so you can choose what to work on more easily.
 
-Time is of the essense, so it's better to start working now, and add help as you go.  In some cases small interdiciplinary groups make sense, so create online video chat sessions where they do their own "mini-hackathon" in order to generate concepts, or progress them through prototype and testing.   See below for how to get help when you need it.
+* auto-gen TOC:
+{:toc}
 
 
 # What should I do now?
@@ -76,6 +66,53 @@ Ideally design sessions are going to be 2-4 hours, but some may take a day.  Jus
 At the beginning of each session, **nominate a note-taker who will share your progress at the end of the session.**
 
 To get an idea of this, [click here to see the submission form at the end of each session](https://airtable.com/shrIHCO5Sm4SiAsx0) and/or post the approprate wiki page for the design.  You can find that link when clicking on the card in the design library.
+
+## Our strategy
+
+We want to prioritse designs that can be built  with locally-available parts, so they are quickly available and communities are empowered to react to need. Simple and basic funcationality is  more important than advanced features.  And we are not concerning ourselves with regulatory compliance.  In live or not-live situations, we think speed to availability and practical functionality are the only important aspects to work towards.  The regulatory aspects are more likely to be addressed if a design is a practical option and ready to produce.  We are following the [Good Samaritan Law](https://en.wikipedia.org/wiki/Good_Samaritan_law).
+
+
+### Problem we’re attacking:
+
+There will be a shortage of supply of medical respirators due to the Covid-19 pandemic. Industrial manufacturing & distribution will likely lag by months. 
+
+### Our solution:
+
+Medically appropriate respirator designs that can be built on a DIY basis. We are working towards the fastest good-enought designs to meet the needs as soon as possible. You are volunteering verify and distribute respirator plans that can be built be local techies locally for faster response to need, and we need you to start now and self-direct.
+
+### Intent:
+
+We maintain and/or increase ventilator capacity under times of exponential demand, by testing or improving appropriate DIY ventilator design builds, and publishing the most promising build plans open source.
+
+## This means:
+
+- full designs, building respirators from the ground up
+- repair, and augmentation of existing medical respirator capacity 
+- recognising there is no one, universal answer and working in the open library so others have immediate access to the information they need
+
+## Questions that our design prototyping process will answer:
+
+1. Basic medical appropriateness
+2. Parts available/makeable
+3. Ease of assembly & reliability
+
+## Intended use of the design we publish will be by users lacking technical support and/or manufacturing capacity:
+
+- physicians or quickly-trained interns in hospitals.
+- NOT individuals isolated in their homes, or geographies.
+
+## We need you to self-direct in order to:
+
+- searching, and screening designs that can be built and tested relatively quickly
+- assembling cross-disciplinary teams from medical/maker&engineering/facilitation to commit to tight prototyping sprints to test designs that we collect
+- publishing use useful design, and criteria that help select out less useful designs in the central library of open "wiki" pages
+
+We are trying to facilitate this, but we need you to start yourself based on the call to action for the day, and to ask for help if need be.
+
+The goal here is for people to connect independently and self-direct to design and test prototypes in short essions.  For the most part, we encourage people to find something they can do to contribute the verification efforts of the most prgressed designs. That means some duplication of effort, but overall gives us faster visibility of problems, and keeps people working on the thing that will address the shortage the fastest way possible.
+
+## Priortise speed and action over avoiding duplication of effort
+Time is of the essense, so it's better to start working now, and add help as you go.  In some cases small interdiciplinary groups make sense, so create online video chat sessions where they do their own "mini-hackathon" in order to generate concepts, or progress them through prototype and testing.   See below for how to get help when you need it.
 
 
 
