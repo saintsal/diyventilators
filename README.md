@@ -15,7 +15,7 @@ The goal here is for people to connect independently and self-direct to design a
 
 This is going to be chaotic but we are providing two centralised resources to help people self-direct:
 
-1. [An open list of volunteers.](https://airtable.com/shrskx6uYDk1KqrvN)  (or a [table view](https://airtable.com/shrskx6uYDk1KqrvN)
+1. [An open list of volunteers.](https://airtable.com/shrskx6uYDk1KqrvN)  (or a [table view](https://airtable.com/shrskx6uYDk1KqrvN) )
 2. [An open library of ventilator designs](https://airtable.com/shrIHCO5Sm4SiAsx0), organised with medical feedback and contruction notes from volunteers.
 
 In some cases small interdiciplinary groups make sense, so create online video chat sessions where they do their own "mini-hackathon" in order to generate concepts, or progress them through prototype and testing. 
@@ -24,6 +24,8 @@ In some cases small interdiciplinary groups make sense, so create online video c
 # What should I do now?
 
 **Step 1.  Add yourself to the open list of volunteers**
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrm2y1bUzG7KZYHu?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 If you have any design, hardware, mechanical or medical clinical experience, people will need you. [The sign up form is here](https://airtable.com/shr46cYDx5856dQcV) and takes about 2 minutes. Then you can join [the chat group here.](https://discord.gg/Xu8Uzj)
 
