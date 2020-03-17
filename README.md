@@ -1,4 +1,4 @@
-[BG](https://github.com/saintsal/diyventilators/blob/bg/README.md)
+Languages: [EN](#) [BG](./lang/README-BG)
 
 # DIY Ventiliators
 
