@@ -1,4 +1,4 @@
-[BG](https://github.com/saintsal/diyventilators/blob/bg/README.md)
+[BG](https://github.com/saintsal/diyventilators/blob/bg/README.md) (po-staro)
 
 # DIY Ventiliators
 
@@ -35,8 +35,7 @@ We are asking everyone to self-direct, and report progress openly, so we do not 
 
 When choosing a design to work on, **please priortise the shortest path to producible devices, which likely means working on the designs at later stages.**
 
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrm2y1bUzG7KZYHu?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrIHCO5Sm4SiAsx0?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 **Connnect with others for help and guidance as soon as you need it.**
 If you need help from a specific skill, [ask a volunteer connector](https://airtable.com/shrkvMYer4BoEoQfh). If you need facilatation help, [ask one of these volunteer facilitators](https://airtable.com/shrsgPfmZ5llNutHi).  
