@@ -15,7 +15,7 @@ To save the lives of people who will not have access to a breathing apparatus, o
 We are focused on the fastest path to having a *just good enough* and *pruduceable* design on a country by country basis. 
 
 ## The open source strategy
-We want to prioritse designs that can be built  with locally-available parts, so they are quickly available and communities are empowered to react to need. Simple and basic funcationality is  more important than advanced features.  And we are not concerning ourselves with regulatory compliance.  In live or not-live situations, we think speed to availability and practical functionality are more important.  The regulatory aspects are more likely to be addressed if a design is a practical option and ready to produce.  We are following the [Good Samaritan Law](https://en.wikipedia.org/wiki/Good_Samaritan_law).
+We want to prioritse designs that can be built  with locally-available parts, so they are quickly available and communities are empowered to react to need. Simple and basic funcationality is  more important than advanced features.  And we are not concerning ourselves with regulatory compliance.  In live or not-live situations, we think speed to availability and practical functionality are the only important aspects to work towards.  The regulatory aspects are more likely to be addressed if a design is a practical option and ready to produce.  We are following the [Good Samaritan Law](https://en.wikipedia.org/wiki/Good_Samaritan_law).
 
 
 
