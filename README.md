@@ -4,14 +4,23 @@
 
 We are expecting a shortage of mechanical breathing assistance for severe COVID-19 patients.
 
-To save the lives of people who will not have access to a breathing apparatus, our goal is to make it possible for locals to construct their own using locally-available or standard parts.  We aim to do this by building a **library of DIY plans and designs** that others can improve, or build locally for fast response.
+To save the lives of people who will not have access to a breathing apparatus, our goal is to make it possible for locals to construct their own using locally-available or standard parts.  We aim to do this by building a **library of DIY plans and designs** that others can improve, or build locally for fast response.  We are focused on the fastest path to having a *just good enough* and *pruduceable* design on a country by country basis. 
 
-# How this works
-The goal here is for people to connect independently and self-direct to design and test prototypes in short essions.  In some cases small interdiciplinary groups make sense, so create online video chat sessions where they do their own "mini-hackathon" in order to generate concepts, or progress them through prototype and testing.  We will act as support and facilitation.
+Current status: **Since we've got medical feedback on [the MIT $100 ventilator](https://airtable.com/embed/shrIHCO5Sm4SiAsx0/tbl7hMA18kmI63JDk/viww9nptHKS2OLKmT/recDC2VvcXttg3y8t?blocks=hide&backgroundColor=red&viewControls=on), that is our most reliable path for today.  If you are an engineer/hacker, could you please try it out, and see if you can make it with local parts?    If you have clinical experience with breathing support, can you [please review one of the other designs](https://airtable.com/embed/shrIHCO5Sm4SiAsx0/tbl7hMA18kmI63JDk?backgroundColor=red&viewControls=on&blocks=hide) on their respective wiki page?  We are looking for a practical works/doesn't work evaluation from you, and a heads-up for any concerns you have with it.**
+
+# What this project focuses on
+The goal here is for people to connect independently and self-direct to design and test prototypes in short essions.  For the most part, we encourage people to find something they can do to contribute the verification efforts of the most likely designs.
+
+This is going to be chaotic but we are providing two centralised resources to help people self-direct:
+
+1. [An open list of volunteers.](https://airtable.com/shrskx6uYDk1KqrvN)
+2. [An open library of ventilator designs](https://airtable.com/shrIHCO5Sm4SiAsx0), organised with medical feedback and contruction notes from volunteers.
+
+In some cases small interdiciplinary groups make sense, so create online video chat sessions where they do their own "mini-hackathon" in order to generate concepts, or progress them through prototype and testing.  We will act as support and facilitation.
 
 
 
-**Step 1.  Find me collaborators**
+**Step 1.  Add yourself to the open list of volunteers**
 
 If you have any design, mechanical or medical clinical experience, please register your interest and join a team. [The sign up form is here](https://airtable.com/shr46cYDx5856dQcV) and takes about 2 minutes.
 
