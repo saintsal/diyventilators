@@ -1,9 +1,11 @@
 [BG](https://github.com/saintsal/diyventilators/blob/bg/README.md) (стара версия)
 
 
-Current status: **Since we've got medical feedback on [the MIT $100 ventilator](https://airtable.com/embed/shrIHCO5Sm4SiAsx0/tbl7hMA18kmI63JDk/viww9nptHKS2OLKmT/recDC2VvcXttg3y8t?blocks=hide&backgroundColor=red&viewControls=on), that is our most reliable path for today.  If you are an engineer/hacker, could you please try it out, and see if you can make it with local parts?    If you have clinical experience with breathing support, can you [please review one of the other designs](https://airtable.com/embed/shrIHCO5Sm4SiAsx0/tbl7hMA18kmI63JDk?backgroundColor=red&viewControls=on&blocks=hide) on their respective wiki page?  We are looking for a practical works/doesn't work evaluation from you, and a heads-up for any concerns you have with it.**
+Current status: **We are asking engineers to try to buld the the MIT $100 ventilator](https://airtable.com/embed/shrIHCO5Sm4SiAsx0/tbl7hMA18kmI63JDk/viww9nptHKS2OLKmT/recDC2VvcXttg3y8t?blocks=hide&backgroundColor=red&viewControls=on)and the [Mascorro model](https://airtable.com/shrIHCO5Sm4SiAsx0/tbl7hMA18kmI63JDk/viww9nptHKS2OLKmT/rec96oV57nwhfuS0I?blocks=hide) today.**
 
-After you [register](https://airtable.com/shr46cYDx5856dQcV), you can jump on the [chat for help](https://discord.gg/38YAvFZ).
+**OR, if you are a mechanical, hardware or software engineer, we need you to learn about [the ARDS protocol](https://docs.google.com/spreadsheets/d/1pOCpZ6IS8mLlomMPZAW0UrUcUCIuJjaLr0IKu_M1vuU/edit#gid=0) (medical protocol for respiration devices) and ask any questions as they arise on this page.  We have doctors who can answer these questions, which we'll make into a FAQ to help all engineers around the world.**
+
+In all cases, please also [register](https://airtable.com/shr46cYDx5856dQcV), and jump on the [chat for help](https://discord.gg/38YAvFZ).
 
 
 # DIY Ventiliators
