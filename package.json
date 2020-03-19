@@ -1,0 +1,35 @@
+{
+  "name": "sourcesite",
+  "version": "1.0.0",
+  "description": "Source web site",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-purgecss": "^2.0.6",
+    "gulp-useref": "^4.0.1",
+    "postcss": "^7.0.26",
+    "tailwindcss": "^1.2.0",
+    "typeface-oxygen": "^0.0.72"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourceinstitute/website.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/sourceinstitute/website/issues"
+  },
+  "homepage": "https://github.com/sourceinstitute/website#readme"
+}
