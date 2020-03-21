@@ -49,7 +49,7 @@ em {
 }
 
 h1 {
-    @apply text-center uppercase border-t border-dotted w-full text-sm text-gray-700 border-gray-600 mt-12 mb-0
+    @apply text-center uppercase w-full text-sm text-gray-700 border-gray-600 mt-12 mb-0
 }
 
 h2 {
