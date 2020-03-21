@@ -26,7 +26,7 @@ svg {
     @apply no-underline border-none
 }
 
-a {
+.link, a {
     @apply no-underline border-b border-dotted border-gray-700
 }
 
@@ -74,6 +74,10 @@ article h3 {
 
 article h3 span {
     @apply font-normal text-sm uppercase mt-1 text-gray-700 italic float-right clear-right inline-block;
+}
+
+article h4 {
+    @apply font-bold mb-2 
 }
 
 article .status {
