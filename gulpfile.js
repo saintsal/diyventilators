@@ -11,7 +11,7 @@ const purgecss = require('gulp-purgecss')
 
 const f = {
     src: "src",
-    dest: "build"
+    dest: "docs"
 }
 
 function cleanBuild() {
