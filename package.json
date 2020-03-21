@@ -12,9 +12,9 @@
     "gulp-if": "^3.0.0",
     "gulp-imagemin": "^7.1.0",
     "gulp-postcss": "^8.0.0",
-    "gulp-purgecss": "^2.0.6",
+    "gulp-purgecss": "^2.1.0",
     "gulp-useref": "^4.0.1",
-    "postcss": "^7.0.26",
+    "postcss": "^7.0.27",
     "tailwindcss": "^1.2.0",
     "typeface-oxygen": "^0.0.72"
   },
