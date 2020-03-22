@@ -96,3 +96,7 @@ article .status {
 .footer a {
     @apply border-none
 }
+
+.logo {
+  @apply inline-block w-8 ml-4
+}
