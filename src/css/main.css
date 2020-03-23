@@ -7,7 +7,7 @@ body {
     font-size: 20px;
     letter-spacing: 0.01rem;
     color: rgb(26, 26, 26);
-    background-color: rgb(236, 236, 236);
+    background-color: #fff;
 }
 
 p {
@@ -19,7 +19,7 @@ svg {
 }
 
 svg {
-    @apply text-green-400 inline mx-1 -my-1
+    @apply text-green-600 inline mx-1 -my-1
 }
 
 .bio a {
@@ -39,13 +39,17 @@ em {
     @apply -mx-8 mt-2 flex flex-wrap
 }
 
-.projects>a {
+.projects>a, projects>article {
     @apply w-full block no-underline border-none
 }
 
+.projects>article a {
+    @apply underline
+}
+
 @screen sm {
-    .projects>a {
-        @apply w-1/3
+    .projects>a, .projects>article {
+        @apply w-1/3 flex-auto
     }
 }
 
@@ -54,7 +58,7 @@ h1 {
 }
 
 h2 {
-    @apply mt-16 uppercase text-sm flex-none
+    @apply mt-16 uppercase text-sm flex-none  my-2
 }
 
 li {
@@ -62,7 +66,7 @@ li {
 }
 
 a article h3 {
-    @apply underline
+    @apply underline 
 }
 
 article {
@@ -70,7 +74,7 @@ article {
 }
 
 article h3 {
-    @apply font-bold uppercase mb-2 text-base
+    @apply font-bold uppercase mb-2 text-base text-green-600
 }
 
 article h3 span {
@@ -78,7 +82,7 @@ article h3 span {
 }
 
 article h4 {
-    @apply font-bold mb-2
+    @apply font-bold my-2
 }
 
 article .status {
@@ -104,6 +108,9 @@ article .status {
 
 .banner {
     margin-left: 40rem;
-    right: -10rem;
+    right: -8rem;
     @apply fixed top-0 text-sm text-red-700 bg-gray-400 px-24 py-2 -mt-12 transform rotate-45 origin-top-left 
+}
+ol { list-style: decimal;
+    list-style-position: inside;
 }
