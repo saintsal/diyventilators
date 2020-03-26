@@ -114,3 +114,7 @@ article .status {
 ol { list-style: decimal;
     list-style-position: inside;
 }
+
+.links article {
+    text-align: center;
+}
