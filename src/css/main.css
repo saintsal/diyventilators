@@ -108,8 +108,9 @@ article .status {
 
 .banner {
     margin-left: 40rem;
-    right: -8rem;
-    @apply fixed top-0 text-sm text-red-700 bg-gray-400 px-24 py-2 -mt-12 transform rotate-45 origin-top-left 
+    top: 0;
+    right: 0;
+    @apply fixed top-0 text-sm font-bold text-red-700 bg-gray-400 px-12 py-2 transform rotate-45 origin-top-left 
 }
 ol { list-style: decimal;
     list-style-position: inside;
