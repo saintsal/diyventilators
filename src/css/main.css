@@ -31,6 +31,10 @@ a {
     @apply no-underline border-b border-dotted border-gray-700
 }
 
+a svg {
+    @apply border-none
+}
+
 em {
     @apply italic
 }
@@ -49,7 +53,7 @@ em {
 
 @screen sm {
     .projects>a, .projects>article {
-        @apply w-1/3 flex-auto
+        @apply w-1/3 
     }
 }
 
@@ -118,4 +122,44 @@ ol { list-style: decimal;
 
 .links article {
     text-align: center;
+}
+
+.quicklinks {
+    @apply text-gray-600 text-sm mt-3;
+}
+.quicklinks ul ul {
+    @apply ml-6
+}
+.quicklinks li {
+    @apply my-1
+}
+.quicklinks a {
+    @apply border-none
+}
+
+
+ol {
+    counter-reset: numList;
+    list-style: none;
+
+}
+
+ol li {
+    float: left;
+    position: relative
+}
+ol li:before {
+    counter-increment: numList;
+    content: counter(numList);
+    
+    float: left;
+    position: absolute;
+    left: -2rem;
+    
+    text-align: center;
+    color: #fff;
+    line-height: 22px;
+    
+    @apply bg-green-600 rounded-full w-6 h-6 font-bold 
+    
 }
