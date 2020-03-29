@@ -20,7 +20,7 @@ function cleanBuild() {
 }
 
 function html() {
-    return src([`${f.src}/*.html`, `${f.src}/assets/**/*`, `${f.src}/**/*.woff`])
+    return src([`${f.src}/*.html`, `${f.src}/assets/**/*`, `${f.src}/**/*.woff`, `${f.src}/CNAME`])
         .pipe(dest(f.dest))
         .pipe(browserSync.stream())
 }
