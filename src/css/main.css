@@ -8,6 +8,10 @@ body {
     letter-spacing: 0.01rem;
     color: rgb(26, 26, 26);
     background-color: #fff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    -moz-font-feature-settings: "liga" on;
 }
 
 p {
