@@ -14,7 +14,7 @@
     "gulp-postcss": "^8.0.0",
     "gulp-purgecss": "^2.1.0",
     "gulp-useref": "^4.0.1",
-    "postcss": "^7.0.27",
+    "postcss": "^8.2.10",
     "tailwindcss": "^1.2.0",
     "typeface-oxygen": "^0.0.72"
   },
